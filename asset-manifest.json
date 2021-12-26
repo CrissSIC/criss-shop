@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CrissSIC/criss-shop.git/static/css/main.f12dfdbe.css",
+    "main.js": "/CrissSIC/criss-shop.git/static/js/main.c1e757d4.js",
+    "static/media/banner.png": "/CrissSIC/criss-shop.git/static/media/banner.69f18394bb054a781081.png",
+    "index.html": "/CrissSIC/criss-shop.git/index.html",
+    "main.f12dfdbe.css.map": "/CrissSIC/criss-shop.git/static/css/main.f12dfdbe.css.map",
+    "main.c1e757d4.js.map": "/CrissSIC/criss-shop.git/static/js/main.c1e757d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f12dfdbe.css",
+    "static/js/main.c1e757d4.js"
+  ]
+}
