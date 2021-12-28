@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/criss-shop/static/css/main.9884bd70.css",
-    "main.js": "/criss-shop/static/js/main.b48bbfc2.js",
+    "main.css": "/criss-shop/static/css/main.06764655.css",
+    "main.js": "/criss-shop/static/js/main.d764a4dd.js",
     "static/media/banner.png": "/criss-shop/static/media/banner.69f18394bb054a781081.png",
     "index.html": "/criss-shop/index.html",
-    "main.9884bd70.css.map": "/criss-shop/static/css/main.9884bd70.css.map",
-    "main.b48bbfc2.js.map": "/criss-shop/static/js/main.b48bbfc2.js.map"
+    "main.06764655.css.map": "/criss-shop/static/css/main.06764655.css.map",
+    "main.d764a4dd.js.map": "/criss-shop/static/js/main.d764a4dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.9884bd70.css",
-    "static/js/main.b48bbfc2.js"
+    "static/css/main.06764655.css",
+    "static/js/main.d764a4dd.js"
   ]
 }
