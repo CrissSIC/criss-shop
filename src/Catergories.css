@@ -1,0 +1,9 @@
+.wrapper {
+  width: 1200px;
+}
+.wrapper .page-container {
+  width: calc(-142%);
+}
+.wrapper .page-container .scale-down {
+  width: 242px;
+}

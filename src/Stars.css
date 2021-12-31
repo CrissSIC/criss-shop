@@ -1,0 +1,19 @@
+.stars-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.stars-container .star-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.stars-container .review-count {
+  font-size: 10px;
+}
+.input-radio-stars {
+  display: none;
+}
+.star:hover {
+  cursor: pointer;
+}
